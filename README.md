@@ -102,3 +102,4 @@ Only add the URL after a real demo exists. To add a screenshot, place it inside 
 - An iframe is **not** a security boundary. Use a dedicated demo environment with synthetic data, least privilege, rate limits and a reset strategy. Do not connect these windows to production data or expose admin credentials.
 - Japanese translations are editable local strings, not live Google Translate calls. This avoids sending every render to a third party and lets translations be corrected.
 - Fonts are loaded from Google Fonts; add self-hosted font files if you require a fully offline deployment.
+# Porfilo
